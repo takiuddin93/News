@@ -1,0 +1,865 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 79,
+    "credits_remaining": 21
+  },
+  "request_metadata": {
+    "created_at": "2020-06-05T05:40:19.329Z",
+    "processed_at": "2020-06-05T05:40:23.275Z",
+    "total_time_taken": 3.95,
+    "total_results": 20,
+    "timing": [
+      "global_init - 0ms (total 0ms)",
+      "auth_apikey - 77ms (total 77ms)",
+      "auth_retrieve_plan - 45ms (total 122ms)",
+      "auth_retrieve_credit_usage - 104ms (total 227ms)",
+      "processing_invoking_worker - 4ms (total 231ms)",
+      "processing_execution_complete - 3945ms (total 4177ms)",
+      "auth_credit_usage_reconcile - 95ms (total 4273ms)",
+      "global_end - 0ms (total 4273ms)"
+    ]
+  },
+  "request_parameters": {
+    "type": "headlines",
+    "locale": "en-US"
+  },
+  "articles": [{
+      "link": "https://nypost.com/2020/06/04/buffalo-police-shove-man-to-the-ground-causing-him-to-bleed-from-head/",
+      "title": "Video: Elderly man pushed to ground by Buffalo police starts bleeding from head",
+      "primary_author": "Ben Feuerherd",
+      "authors": [
+        "Ben Feuerherd"
+      ],
+      "snippet": "A Buffalo police officer was caught on video shoving a 75-year-old man to the ground, causing him to bang his head on the sidewalk and start bleeding from the ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/73BE0C22F204432589C0D9102E6BBA25",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/73BE0C22F204432589C0D9102E6BBA25"
+      ],
+      "date_published": "2020-06-05T05:15:08.000Z",
+      "source": {
+        "id": "new-york-post",
+        "domain": "nypost.com",
+        "name": "New York Post ",
+        "logo": "https://api.breakingapi.com/download/logos/new-york-post.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-IE",
+          "en-IL",
+          "en-NZ",
+          "en-NG",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-GB",
+          "en-ZW",
+          "en-MY",
+          "en-AU",
+          "en-BW",
+          "en-ET",
+          "en-IN",
+          "en-ID",
+          "en-KE",
+          "en-LV",
+          "en-NA",
+          "en-PK",
+          "en-TZ",
+          "en-UG",
+          "en-GH",
+          "en-us"
+        ],
+        "description": "The New York Post is a daily newspaper in New York City. The Post also operates the celebrity gossip site PageSix.com and the entertainment site Decider.com, and co-produces the television show Page Six TV.\nThe modern version of the paper is published in tabloid format."
+      }
+    },
+    {
+      "link": "https://www.buzzfeednews.com/article/salvadorhernandez/buffalo-police-video-man-pushed",
+      "title": "Buffalo Police Pushed Over A Man In A Graphic Video",
+      "primary_author": "Salvador Hern",
+      "authors": [
+        "Salvador Hern",
+        "ez"
+      ],
+      "snippet": "Graphic video shows Buffalo, New York, police officers pushing an elderly man back while enforcing curfew, knocking the man over and causing him to hit his ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/055C4C15FC8240B29DE1401C40214BF9",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/055C4C15FC8240B29DE1401C40214BF9"
+      ],
+      "date_published": "2020-06-05T03:27:34.000Z",
+      "source": {
+        "id": "buzzfeed-news",
+        "domain": "www.buzzfeednews.com",
+        "name": "BuzzFeed News",
+        "logo": "https://api.breakingapi.com/download/logos/buzzfeed-news.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-BW",
+          "en-NA",
+          "en-ET",
+          "en-TZ",
+          "en-ZW",
+          "en-IL",
+          "en-KE",
+          "en-IN",
+          "en-NZ",
+          "en-UG",
+          "en-PK",
+          "en-PH",
+          "en-GH",
+          "en-NG",
+          "en-ID",
+          "en-AU",
+          "en-GB",
+          "en-SG",
+          "en-ZA",
+          "en-IE",
+          "en-MY"
+        ],
+        "description": "BuzzFeed News is an American news website published by BuzzFeed. It has published a number of high-profile scoops, including the Trump–Russia dossier, for which it was heavily criticized."
+      }
+    },
+    {
+      "link": "https://www.foxnews.com/us/buffalo-protester-pushed-to-ground-starts-bleeding-video-shows-2-cops-suspended-reports",
+      "title": "Buffalo protester pushed to ground, starts bleeding, video shows; 2 cops suspended: reports",
+      "snippet": "Two Buffalo, N.Y., police officers have been suspended without pay and an internal affairs investigation launched after a shocking video showed officers push an ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/A30DFC0F4E6E4C059E027723D86C46CC",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/A30DFC0F4E6E4C059E027723D86C46CC"
+      ],
+      "date_published": "2020-06-05T03:59:18.000Z",
+      "source": {
+        "id": "fox-news",
+        "domain": "www.foxnews.com",
+        "name": "Fox News",
+        "logo": "https://api.breakingapi.com/download/logos/fox-news.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-GB",
+          "en-SG",
+          "en-IN",
+          "en-KE",
+          "en-IL",
+          "en-us",
+          "en-AU"
+        ],
+        "description": "Fox News is an American conservative cable television news channel. It is owned by the Fox News Group, which itself is owned by the Fox Corporation. The channel broadcasts primarily from studios at 1211 Avenue of the Americas in New York City."
+      }
+    },
+    {
+      "link": "https://news.wbfo.org/post/graphic-video-two-buffalo-police-officers-suspended-after-violently-shoving-elderly-man-ground",
+      "title": "GRAPHIC VIDEO: Two Buffalo police officers suspended after violently shoving elderly man to ground",
+      "snippet": "Shortly after Buffalo's curfew started Thursday evening, city police and State Police swept through the area of Niagara Square directly in front of City Hall to clear ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/9913330BD4B04E3C80EC78103EAA37B8",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/9913330BD4B04E3C80EC78103EAA37B8"
+      ],
+      "date_published": "2020-06-05T02:09:44.000Z",
+      "source": {
+        "id": "wbfo",
+        "domain": "news.wbfo.org",
+        "name": "WBFO",
+        "logo": "https://api.breakingapi.com/download/logos/wbfo.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-SG"
+        ],
+        "description": "WBFO is the NPR member station for Buffalo, New York, carrying an almost entirely public news/talk format. It broadcasts from studios in the Lower Terrace section of downtown Buffalo which it shares with WNED-TV and WNED-FM. Previously, it broadcast from the South campus of the University at Buffalo."
+      }
+    },
+    {
+      "link": "https://buffalonews.com/2020/06/04/brown-vows-to-bring-positive-changes-to-policing-in-buffalo/",
+      "title": "Brown to formally outlaw use of choke holds by Buffalo Police",
+      "snippet": "Buffalo Mayor Byron W. Brown told a crowd of protesters Thursday in Niagara Square that he will formally outlaw the use of choke holds on suspects by the ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/C15DA276BF2D4FE4AB28AAEBFB7AB0E8",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/C15DA276BF2D4FE4AB28AAEBFB7AB0E8"
+      ],
+      "date_published": "2020-06-04T22:47:25.000Z",
+      "source": {
+        "id": "buffalo-news",
+        "domain": "buffalonews.com",
+        "name": "Buffalo News",
+        "logo": "https://api.breakingapi.com/download/logos/buffalo-news.png",
+        "locales": [
+          "en-US",
+          "en-BW",
+          "en-ET",
+          "en-ID",
+          "en-IL",
+          "en-LV",
+          "en-NA",
+          "en-TZ",
+          "en-UG",
+          "en-ZW",
+          "en-CA",
+          "en-NZ",
+          "en-AU",
+          "en-SG",
+          "en-IN",
+          "en-PK",
+          "en-GH"
+        ],
+        "description": "The Buffalo News is the daily newspaper of the Buffalo–Niagara Falls metropolitan area, located at 1 News Plaza in Downtown Buffalo, New York. The paper is owned by Warren Buffett's Berkshire Hathaway. It was for decades the only newspaper fully owned by that company."
+      }
+    },
+    {
+      "link": "https://www.cnn.com/2020/06/05/us/minneapolis-officers-background-george-floyd-trnd/index.html",
+      "title": "What we know about the four ex-police officers charged in George Floyd's death",
+      "snippet": "One of the officers had been on the job four days. One was on his third shift ever. And Derek Chauvin, who pressed his knee into George Floyd's neck for nearly ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/59FDE8A82481458384E5367B005D6FDE",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/59FDE8A82481458384E5367B005D6FDE"
+      ],
+      "date_published": "2020-06-05T04:04:00.000Z",
+      "source": {
+        "id": "cnn",
+        "domain": "www.cnn.com",
+        "name": "CNN",
+        "logo": "https://api.breakingapi.com/download/logos/cnn.png",
+        "locales": [
+          "en-AU",
+          "en-US",
+          "en-CA",
+          "en-GB",
+          "en-NG",
+          "en-BW",
+          "en-ET",
+          "en-IN",
+          "en-ID",
+          "en-IE",
+          "en-IL",
+          "en-KE",
+          "en-LV",
+          "en-MY",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-GH",
+          "en-ZW",
+          "en-NA",
+          "en-us",
+          "en-Ke"
+        ],
+        "description": "CNN is an American news-based pay television channel owned by AT&T's WarnerMedia. CNN was founded in 1980 by American media proprietor Ted Turner as a 24-hour cable news channel."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2020/06/04/us/george-floyd-video-funeral.html",
+      "title": "George Floyd Updates: 10th Night of Protest Follows Somber Memorial",
+      "snippet": "Largely peaceful protests stretched into their 10th day, as George Floyd's family prepared for a memorial in Minneapolis on Thursday.",
+      "primary_image_link": "https://api.breakingapi.com/download/images/E715D9BF8D544B60B53691ADDF8F54AC",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/E715D9BF8D544B60B53691ADDF8F54AC"
+      ],
+      "date_published": "2020-06-05T05:10:12.000Z",
+      "source": {
+        "id": "the-new-york-times-www-nytimes-com",
+        "domain": "www.nytimes.com",
+        "link": "https://www.nytimes.com",
+        "name": "The New York Times",
+        "logo": "https://api.breakingapi.com/download/logos/the-new-york-times-www-nytimes-com.jpg",
+        "locales": [
+          "en-US",
+          "en-AU",
+          "en-GB",
+          "en-CA",
+          "en-BW",
+          "es-CU",
+          "en-ET",
+          "en-GH",
+          "en-IN",
+          "en-ID",
+          "en-IE",
+          "en-IL",
+          "en-KE",
+          "en-LV",
+          "en-MY",
+          "en-NA",
+          "en-NZ",
+          "en-NG",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-ZW",
+          "en-us",
+          "en-ke"
+        ],
+        "description": "The New York Times is an American newspaper based in New York City with worldwide influence and readership. Founded in 1851, the paper has won 127 Pulitzer Prizes, more than any other newspaper. The Times is ranked 18th in the world by circulation and 3rd in the U.S."
+      }
+    },
+    {
+      "link": "https://www.foxnews.com/us/nypd-george-floyd-unrest-curfew",
+      "title": "NYPD confronts George Floyd demonstrators as curfew takes effect",
+      "snippet": "New York City police officers were seen clashing with demonstrators in another night of mass gatherings Thursday as a citywide curfew took effect, with law ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/8A732FCF0C8F4766948C78E4808A4F39",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/8A732FCF0C8F4766948C78E4808A4F39"
+      ],
+      "date_published": "2020-06-05T02:54:12.000Z",
+      "source": {
+        "id": "fox-news",
+        "domain": "www.foxnews.com",
+        "name": "Fox News",
+        "logo": "https://api.breakingapi.com/download/logos/fox-news.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-GB",
+          "en-SG",
+          "en-IN",
+          "en-KE",
+          "en-IL",
+          "en-us",
+          "en-AU"
+        ],
+        "description": "Fox News is an American conservative cable television news channel. It is owned by the Fox News Group, which itself is owned by the Fox Corporation. The channel broadcasts primarily from studios at 1211 Avenue of the Americas in New York City."
+      }
+    },
+    {
+      "link": "https://www.startribune.com/george-floyd-autopsy-report-released-he-tested-positive-for-covid-19-in-april/571000102/",
+      "title": "George Floyd autopsy report released; he tested positive for COVID-19 in April",
+      "snippet": "The Hennepin County Medical Examiner's Office released the full autopsy results performed on George Floyd with his family's permission. The release comes ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/E7AC487EC70E4374B0B88326B178B64F",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/E7AC487EC70E4374B0B88326B178B64F"
+      ],
+      "date_published": "2020-06-03T23:52:26.000Z",
+      "source": {
+        "id": "minneapolis-star-tribune",
+        "domain": "www.startribune.com",
+        "name": "Minneapolis Star Tribune",
+        "logo": "https://api.breakingapi.com/download/logos/minneapolis-star-tribune.png",
+        "locales": [
+          "en-US",
+          "en-MY",
+          "en-BW",
+          "en-NA",
+          "en-IN",
+          "en-KE",
+          "en-PK",
+          "en-PH",
+          "en-ZA",
+          "en-ID",
+          "en-IL",
+          "en-ET",
+          "en-NG",
+          "en-CA",
+          "en-TZ",
+          "en-UG",
+          "en-SG",
+          "en-GB",
+          "en-ZW",
+          "en-GH",
+          "en-AU",
+          "en-IE",
+          "en-NZ",
+          "en-ke"
+        ],
+        "description": "The Star Tribune is the largest newspaper in Minnesota. It originated as the Minneapolis Tribune in 1867 and the competing Minneapolis Daily Star in 1920. During the 1930s and 1940s Minneapolis's competing newspapers were consolidated, with the Tribune published in the morning and the Star in the evening."
+      }
+    },
+    {
+      "link": "https://www.theguardian.com/commentisfree/2020/jun/04/george-floyd-protests-riots-rebellion",
+      "title": "The George Floyd protests – and riots – are a rebellion against an unjust system",
+      "primary_author": "Philip V McHarris",
+      "authors": [
+        "Philip V McHarris"
+      ],
+      "snippet": "Rebellion is etched into American, and human, history. When people are systematically beaten, killed and not given the resources to thrive, rebellion becomes ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/74B3AC3771064CE4A8177D1AA0794611",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/74B3AC3771064CE4A8177D1AA0794611"
+      ],
+      "date_published": "2020-06-05T04:01:26.000Z",
+      "source": {
+        "id": "the-guardian",
+        "domain": "www.theguardian.com",
+        "name": "The Guardian",
+        "logo": "https://api.breakingapi.com/download/logos/the-guardian.png",
+        "locales": [
+          "en-AU",
+          "en-GB",
+          "en-US",
+          "en-CA",
+          "en-NG",
+          "en-BW",
+          "en-ET",
+          "en-GH",
+          "en-IN",
+          "en-ID",
+          "en-IE",
+          "en-IL",
+          "en-KE",
+          "en-LV",
+          "en-MY",
+          "en-NA",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-ZW",
+          "en-il",
+          "en-ke",
+          "en-us",
+          "en-Ke"
+        ]
+      }
+    },
+    {
+      "link": "https://www.politico.com/news/2020/06/04/trump-murkowski-campaign-mattis-302308",
+      "title": "Trump vows to campaign against Murkowski after she backs Mattis",
+      "primary_author": "Andrew Desiderio",
+      "authors": [
+        "Andrew Desiderio"
+      ],
+      "snippet": "President Donald Trump vowed on Thursday to campaign against Sen. Lisa Murkowski after the Alaska Republican said she was “struggling” with whether to ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/2E2078F4FD3A4D7FA124D6DA1A39295D",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/2E2078F4FD3A4D7FA124D6DA1A39295D"
+      ],
+      "date_published": "2020-06-05T01:13:57.000Z",
+      "source": {
+        "id": "politico",
+        "domain": "www.politico.com",
+        "name": "POLITICO",
+        "logo": "https://api.breakingapi.com/download/logos/politico.png",
+        "locales": [
+          "en-US",
+          "en-CA",
+          "en-TZ",
+          "en-ET",
+          "en-BW",
+          "en-GH",
+          "en-IE",
+          "en-IL",
+          "en-KE",
+          "en-MY",
+          "en-NA",
+          "en-NZ",
+          "en-NG",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-ZW",
+          "en-UG",
+          "en-IN",
+          "en-ID",
+          "en-AU",
+          "en-GB",
+          "en-us",
+          "en-ke"
+        ]
+      }
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=71wVIwWwufA",
+      "title": "Current and former defense secretaries speak out against Trump",
+      "date_published": "2020-06-04T21:01:41.000Z",
+      "source": {
+        "domain": "www.youtube.com"
+      }
+    },
+    {
+      "link": "https://www.theatlantic.com/ideas/archive/2020/06/against-insurrection-act/612676/",
+      "title": "Against the Insurrection Act",
+      "primary_author": "Conor Friedersdorf",
+      "authors": [
+        "Conor Friedersdorf"
+      ],
+      "snippet": "Senator Tom Cotton argued Wednesday in The New York Times that given the rioting and looting in multiple U.S. cities, “it's past time to support local law ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/15B994FDB48A470B86D4616A0E9F488F",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/15B994FDB48A470B86D4616A0E9F488F"
+      ],
+      "date_published": "2020-06-04T15:56:28.000Z",
+      "source": {
+        "id": "the-atlantic",
+        "domain": "www.theatlantic.com",
+        "name": "The Atlantic",
+        "logo": "https://api.breakingapi.com/download/logos/the-atlantic.png",
+        "locales": [
+          "en-US",
+          "en-ID",
+          "en-IL",
+          "en-KE",
+          "en-LV",
+          "en-NG",
+          "en-PK",
+          "en-AU",
+          "en-IN",
+          "en-BW",
+          "en-IE",
+          "en-ZW",
+          "en-ET",
+          "en-NA",
+          "en-TZ",
+          "en-CA",
+          "en-NZ",
+          "en-GH",
+          "en-MY",
+          "en-PH",
+          "en-UG",
+          "en-SG",
+          "en-GB",
+          "en-ZA",
+          "en-us"
+        ],
+        "description": "The Atlantic is an American magazine and multi-platform publisher. It was founded in 1857 in Boston, Massachusetts, as The Atlantic Monthly, a literary and cultural commentary magazine that published ..."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2020/06/04/opinion/letters/unrest-trump-military-mattis-esper.html",
+      "title": "Criticism of Trump’s Threat to Use Military Force",
+      "snippet": "Readers discuss comments by the current defense secretary, Mark Esper, and a predecessor, Jim Mattis.",
+      "primary_image_link": "https://api.breakingapi.com/download/images/A86CF3F994514E6EB3F48D94352C5028",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/A86CF3F994514E6EB3F48D94352C5028"
+      ],
+      "date_published": "2020-06-05T04:34:24.000Z",
+      "source": {
+        "id": "the-new-york-times-www-nytimes-com",
+        "domain": "www.nytimes.com",
+        "link": "https://www.nytimes.com",
+        "name": "The New York Times",
+        "logo": "https://api.breakingapi.com/download/logos/the-new-york-times-www-nytimes-com.jpg",
+        "locales": [
+          "en-US",
+          "en-AU",
+          "en-GB",
+          "en-CA",
+          "en-BW",
+          "es-CU",
+          "en-ET",
+          "en-GH",
+          "en-IN",
+          "en-ID",
+          "en-IE",
+          "en-IL",
+          "en-KE",
+          "en-LV",
+          "en-MY",
+          "en-NA",
+          "en-NZ",
+          "en-NG",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-ZW",
+          "en-us",
+          "en-ke"
+        ],
+        "description": "The New York Times is an American newspaper based in New York City with worldwide influence and readership. Founded in 1851, the paper has won 127 Pulitzer Prizes, more than any other newspaper. The Times is ranked 18th in the world by circulation and 3rd in the U.S."
+      }
+    },
+    {
+      "link": "https://www.latimes.com/opinion/story/2020-06-04/james-mattis-donald-trump-tom-cotton-insurrection-act",
+      "title": "Trump tried to turn military into his personal police force",
+      "primary_author": "Andrew Bacevich",
+      "authors": [
+        "Andrew Bacevich"
+      ],
+      "snippet": "Ever the opportunist, President Trump within the last several days has used the social unrest triggered by the police killing of George Floyd to mount an attack on ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/09BF1E9F0A044D03A915CC3829B1BCE6",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/09BF1E9F0A044D03A915CC3829B1BCE6"
+      ],
+      "date_published": "2020-06-04T21:35:47.000Z",
+      "source": {
+        "id": "los-angeles-times",
+        "domain": "www.latimes.com",
+        "name": "Los Angeles Times",
+        "logo": "https://api.breakingapi.com/download/logos/los-angeles-times.png",
+        "locales": [
+          "en-US",
+          "en-NG",
+          "en-AU",
+          "en-BW",
+          "en-CA",
+          "en-ID",
+          "en-IL",
+          "en-KE",
+          "en-LV",
+          "en-NA",
+          "en-NZ",
+          "en-PH",
+          "en-ZA",
+          "en-TZ",
+          "en-GB",
+          "en-ZW",
+          "en-GH",
+          "en-ET",
+          "en-PK",
+          "en-MY",
+          "en-UG",
+          "en-IE",
+          "en-SG",
+          "en-IN",
+          "en-Ke",
+          "en-us"
+        ],
+        "description": "The Los Angeles Times is a daily newspaper which has been published in Los Angeles, California, since 1881. It has the fourth largest circulation among United States newspapers, and is the largest U.S. newspaper not headquartered on the East Coast."
+      }
+    },
+    {
+      "link": "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/04/870141550/aclu-and-black-lives-matter-sue-trump-administration-over-protest-violence",
+      "title": "Civil Rights Groups, Black Lives Matter Sue Trump Administration Over Protest Violence",
+      "primary_author": "Vanessa Romo",
+      "authors": [
+        "Vanessa Romo"
+      ],
+      "snippet": "A combination of civil rights groups, including the American Civil Liberties Union and Lawyers' Committee for Civil Rights Under Law, filed a lawsuit Thursday ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/C0417404A8AE47DB840772DC1D77E2FF",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/C0417404A8AE47DB840772DC1D77E2FF"
+      ],
+      "date_published": "2020-06-05T04:02:43.000Z",
+      "source": {
+        "id": "npr",
+        "domain": "www.npr.org",
+        "name": "NPR",
+        "logo": "https://api.breakingapi.com/download/logos/npr.png",
+        "locales": [
+          "en-US",
+          "en-BW",
+          "en-ET",
+          "en-MY",
+          "en-NA",
+          "en-PK",
+          "en-TZ",
+          "en-UG",
+          "en-IL",
+          "en-LV",
+          "en-ZW",
+          "en-GH",
+          "en-IE",
+          "en-KE",
+          "en-NZ",
+          "en-NG",
+          "en-ZA",
+          "en-IN",
+          "en-PH",
+          "en-SG",
+          "en-AU",
+          "en-CA",
+          "en-GB",
+          "en-ID",
+          "en-us",
+          "en-Ke"
+        ],
+        "description": "National Public Radio is an American privately and publicly funded non-profit membership media organization based in Washington, D.C. NPR differs from other non-profit membership media organizations, ..."
+      }
+    },
+    {
+      "link": "https://www.cnn.com/us/live-news/george-floyd-protests-06-04-20/h_3f3513da4524af708d5540d1dd6bd28e",
+      "title": "George Floyd memorial and protests across America: Live updates",
+      "snippet": "Attorney General William Barr defended the tactics deployed by law enforcement earlier this week as they dealt with protesters who gathered in Washington ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/F2B105ED5356412899E1E081A0388BF3",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/F2B105ED5356412899E1E081A0388BF3"
+      ],
+      "date_published": "2020-06-04T23:45:00.000Z",
+      "source": {
+        "id": "cnn",
+        "domain": "www.cnn.com",
+        "name": "CNN",
+        "logo": "https://api.breakingapi.com/download/logos/cnn.png",
+        "locales": [
+          "en-AU",
+          "en-US",
+          "en-CA",
+          "en-GB",
+          "en-NG",
+          "en-BW",
+          "en-ET",
+          "en-IN",
+          "en-ID",
+          "en-IE",
+          "en-IL",
+          "en-KE",
+          "en-LV",
+          "en-MY",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-GH",
+          "en-ZW",
+          "en-NA",
+          "en-us",
+          "en-Ke"
+        ],
+        "description": "CNN is an American news-based pay television channel owned by AT&T's WarnerMedia. CNN was founded in 1980 by American media proprietor Ted Turner as a 24-hour cable news channel."
+      }
+    },
+    {
+      "link": "https://www.cnn.com/2020/06/04/politics/william-barr-news-conference-george-floyd/index.html",
+      "title": "Barr defends use of force at Monday's White House protest",
+      "primary_author": "David Shortell",
+      "authors": [
+        "David Shortell",
+        "CNN"
+      ],
+      "snippet": "Attorney General William Barr defended the shocking use of force on peaceful protesters outside the White House Monday, saying at a news conference on ...",
+      "primary_image_link": "https://api.breakingapi.com/download/images/A194D6A5D71A440999F665C7C6EAA057",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/A194D6A5D71A440999F665C7C6EAA057"
+      ],
+      "date_published": "2020-06-04T22:03:36.000Z",
+      "source": {
+        "id": "cnn",
+        "domain": "www.cnn.com",
+        "name": "CNN",
+        "logo": "https://api.breakingapi.com/download/logos/cnn.png",
+        "locales": [
+          "en-AU",
+          "en-US",
+          "en-CA",
+          "en-GB",
+          "en-NG",
+          "en-BW",
+          "en-ET",
+          "en-IN",
+          "en-ID",
+          "en-IE",
+          "en-IL",
+          "en-KE",
+          "en-LV",
+          "en-MY",
+          "en-NZ",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-GH",
+          "en-ZW",
+          "en-NA",
+          "en-us",
+          "en-Ke"
+        ],
+        "description": "CNN is an American news-based pay television channel owned by AT&T's WarnerMedia. CNN was founded in 1980 by American media proprietor Ted Turner as a 24-hour cable news channel."
+      }
+    },
+    {
+      "link": "https://www.nytimes.com/2020/06/04/opinion/trump-st-johns-church-protests.html",
+      "title": "Bishop Budde: Trump’s Visit to St. John’s Church Outraged Me",
+      "primary_author": "Mariann Edgar Budde",
+      "authors": [
+        "Mariann Edgar Budde"
+      ],
+      "snippet": "While the president cloaks himself in spiritual authority, he preaches the antithesis.",
+      "primary_image_link": "https://api.breakingapi.com/download/images/8A8D511A0CFC407EA59F0D7E518A33D5",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/8A8D511A0CFC407EA59F0D7E518A33D5"
+      ],
+      "date_published": "2020-06-05T04:09:50.000Z",
+      "source": {
+        "id": "the-new-york-times-www-nytimes-com",
+        "domain": "www.nytimes.com",
+        "link": "https://www.nytimes.com",
+        "name": "The New York Times",
+        "logo": "https://api.breakingapi.com/download/logos/the-new-york-times-www-nytimes-com.jpg",
+        "locales": [
+          "en-US",
+          "en-AU",
+          "en-GB",
+          "en-CA",
+          "en-BW",
+          "es-CU",
+          "en-ET",
+          "en-GH",
+          "en-IN",
+          "en-ID",
+          "en-IE",
+          "en-IL",
+          "en-KE",
+          "en-LV",
+          "en-MY",
+          "en-NA",
+          "en-NZ",
+          "en-NG",
+          "en-PK",
+          "en-PH",
+          "en-SG",
+          "en-ZA",
+          "en-TZ",
+          "en-UG",
+          "en-ZW",
+          "en-us",
+          "en-ke"
+        ],
+        "description": "The New York Times is an American newspaper based in New York City with worldwide influence and readership. Founded in 1851, the paper has won 127 Pulitzer Prizes, more than any other newspaper. The Times is ranked 18th in the world by circulation and 3rd in the U.S."
+      }
+    },
+    {
+      "link": "https://www.washingtonpost.com/opinions/trump-wants-to-turn-his-opponents-into-infidels-to-be-destroyed-not-defeated/2020/06/04/d0d5c516-a690-11ea-bb20-ebf0921f3bbd_story.html",
+      "title": "Trump wants to turn his opponents into infidels to be destroyed, not defeated",
+      "primary_author": "Michael Gerson",
+      "authors": [
+        "Michael Gerson"
+      ],
+      "snippet": "He is trying to reshape the content of Christian social engagement in his own image.",
+      "primary_image_link": "https://api.breakingapi.com/download/images/E56B4740491C4329B08B276838A5BDA6",
+      "image_links": [
+        "https://api.breakingapi.com/download/images/E56B4740491C4329B08B276838A5BDA6"
+      ],
+      "date_published": "2020-06-04T20:16:15.000Z",
+      "source": {
+        "id": "the-washington-post",
+        "domain": "www.washingtonpost.com",
+        "name": "The Washington Post",
+        "logo": "https://api.breakingapi.com/download/logos/the-washington-post.png",
+        "locales": [
+          "en-US",
+          "en-AU",
+          "en-CA",
+          "en-GB",
+          "en-GH",
+          "en-KE",
+          "en-LV",
+          "en-PH",
+          "en-ZW",
+          "en-ET",
+          "en-IN",
+          "en-IL",
+          "en-NA",
+          "en-NZ",
+          "en-NG",
+          "en-PK",
+          "en-SG",
+          "en-ID",
+          "en-IE",
+          "en-MY",
+          "en-TZ",
+          "en-UG",
+          "en-BW",
+          "en-ZA",
+          "en-us",
+          "en-Ke"
+        ],
+        "description": "The Washington Post is a major American daily newspaper published in Washington, D.C. It has the largest circulation in the Washington metropolitan area. Daily broadsheet editions are printed for the District of Columbia, Maryland, and Virginia.\nThe newspaper has won 47 Pulitzer Prizes."
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "request_info": {
+      "success": true,
+      "credits_used": 80,
+      "credits_remaining": 20
+  },
+  "request_metadata": {
+      "created_at": "2020-06-05T05:40:36.011Z",
+      "processed_at": "2020-06-05T05:40:41.025Z",
+      "total_time_taken": 5.01,
+      "total_results": 20,
+      "timing": [
+          "global_init - 0ms (total 0ms)",
+          "auth_apikey - 69ms (total 69ms)",
+          "auth_retrieve_plan - 48ms (total 118ms)",
+          "auth_retrieve_credit_usage - 90ms (total 208ms)",
+          "processing_invoking_worker - 3ms (total 211ms)",
+          "processing_execution_complete - 5013ms (total 5225ms)",
+          "auth_credit_usage_reconcile - 124ms (total 5350ms)",
+          "global_end - 0ms (total 5350ms)"
+      ]
+  },
+  "request_parameters": {
+      "type": "headlines",
+      "locale": "bn-BD"
+  },
+  "articles": [
+      {
+          "link": "https://bangla.bdnews24.com/politics/article1766361.bdnews",
+          "title": "হাসপাতালে চিকিৎসাধীন নাসিমের মস্তিষ্কে রক্তক্ষরণ",
+          "snippet": "করোনাভাইরাসে আক্রান্ত হয়ে হাসপাতালে ভর্তি সাবেক স্বাস্থ্যমন্ত্রী আওয়ামী লীগ নেতা মোহাম্মদ নাসিমের মস্তিষ্কে রক্তক্ষরণ হওয়ায় তার অবস্থার অবনতি হয়েছে।",
+          "primary_image_link": "https://api.breakingapi.com/download/images/F457218ED0384A01907EE6905B711AC1",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/F457218ED0384A01907EE6905B711AC1"
+          ],
+          "date_published": "2020-06-05T05:08:52.000Z",
+          "source": {
+              "id": "bdnews24-com",
+              "domain": "bangla.bdnews24.com",
+              "name": "bdnews24.com",
+              "logo": "https://api.breakingapi.com/download/logos/bdnews24-com.png",
+              "locales": [
+                  "bn-BD"
+              ],
+              "description": "bdnews24.com is an English and Bengali language news website of Bangladesh. As of April 2018, its Alexa ranking was 31 in Bangladesh and 7,183 globally."
+          }
+      },
+      {
+          "link": "https://www.prothomalo.com/bangladesh/article/1660691/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6-%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%A8%E0%A6%A4%E0%A6%BF",
+          "title": "মোহাম্মদ নাসিমের শারীরিক অবস্থার অবনতি",
+          "snippet": "সাবেক স্বাস্থ্যমন্ত্রী ও আওয়ামী লীগ নেতা মোহাম্মদ নাসিমের শারীরিক অবস্থার অবনতি হয়েছে। গতকাল বৃহস্পতিবার তাঁর অবস্থার উন্নতি হয়েছিল। কিন্তু আজ শুক্রবার ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/9A6606DAFD9D407D953B21349685690A",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/9A6606DAFD9D407D953B21349685690A"
+          ],
+          "date_published": "2020-06-05T04:57:00.000Z",
+          "source": {
+              "id": "prothom-alo",
+              "domain": "www.prothomalo.com",
+              "name": "প্রথম আলো",
+              "logo": "https://api.breakingapi.com/download/logos/prothom-alo.png",
+              "locales": [
+                  "bn-BD"
+              ],
+              "description": "The Daily Prothom Alo is a major daily newspaper in Bangladesh, published from Dhaka in the Bengali language. Based on circulation, Prothom Alo is the second largest newspaper in Bangladesh."
+          }
+      },
+      {
+          "link": "https://www.channelionline.com/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6-%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE/",
+          "title": "মোহাম্মদ নাসিমের অবস্থা সংকটাপন্ন",
+          "snippet": "সাবেক স্বাস্থ্যমন্ত্রী ও আওয়ামী লীগের প্রেসিডিয়াম সদস্য মোহাম্মদ নাসিমের অবস্থা সংকটাপন্ন। রাতে ব্রেন স্ট্রোকের পর এখন তার অপারেশন চলছে। এমন পরিস্থিতিতে.",
+          "primary_image_link": "https://api.breakingapi.com/download/images/9CFAC2A2FB3C4FE495465C9C6FB4DAAD",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/9CFAC2A2FB3C4FE495465C9C6FB4DAAD"
+          ],
+          "date_published": "2020-06-05T04:31:00.000Z",
+          "source": {
+              "id": "channel-i",
+              "domain": "www.channelionline.com",
+              "name": "Channel i",
+              "logo": "https://api.breakingapi.com/download/logos/channel-i.png",
+              "locales": [
+                  "bn-BD"
+              ],
+              "description": "Channel i is a Bangladeshi pay television network owned by the Impress Group, the largest textile conglomerate in the country."
+          }
+      },
+      {
+          "link": "https://www.kalerkantho.com/online/national/2020/06/05/919420",
+          "title": "সাবেক স্বাস্থ্যমন্ত্রী নাসিমের অবস্থার অবনতি",
+          "snippet": "করোনাভাইরাসে (কভিড-১৯) আক্রান্ত আওয়ামী লীগের প্রেসিডিয়াম সদস্য ও ১৪ দলের মুখপাত্র সাবেক স্বাস্থ্যমন্ত্রী মোহাম্মদ নাসিমের শারীরিক অবস্থার অবনতি হয়েছে।",
+          "primary_image_link": "https://api.breakingapi.com/download/images/125F5AC0BA9843E1A36CED6B9DF164D9",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/125F5AC0BA9843E1A36CED6B9DF164D9"
+          ],
+          "date_published": "2020-06-05T05:23:00.000Z",
+          "source": {
+              "id": "কালের-কন্ঠ",
+              "domain": "www.kalerkantho.com",
+              "name": "কালের কন্ঠ",
+              "logo": "https://api.breakingapi.com/download/logos/কালের-কন্ঠ.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.ittefaq.com.bd/politics/155930/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6-%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%A8%E0%A6%A4%E0%A6%BF-%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%8D%E0%A6%A1-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%95",
+          "title": "মোহাম্মদ নাসিমের স্বাস্থ্যের অবনতি, মস্কিষ্কে 'মাইল্ড স্ট্রোক' | রাজনীতি | দৈনিক ইত্তেফাক | The Daily Ittefaq",
+          "snippet": "সাবেক স্বাস্থ্যমন্ত্রী মোহাম্মদ নাসিমের স্বাস্থ্যের অবনতি হয়েছে। চিকিৎসকরা বলছেন, বৃহস্পতিবার রাতে তার মস্কিষ্কে মাইল্ড স্ট্রোক হয়েছে। তারর মস্তিষ্কে অপারেশন ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/EF0BEEDA912348F3A8DE9CDED6BFC2CA",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/EF0BEEDA912348F3A8DE9CDED6BFC2CA"
+          ],
+          "date_published": "2020-06-05T05:18:00.000Z",
+          "source": {
+              "id": "দৈনিক-ইত্তেফাক",
+              "domain": "www.ittefaq.com.bd",
+              "name": "দৈনিক ইত্তেফাক",
+              "logo": "https://api.breakingapi.com/download/logos/দৈনিক-ইত্তেফাক.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.ittefaq.com.bd/worldnews/155928/%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%95%E0%A6%96%E0%A6%A8%E0%A7%8B%E0%A6%87-%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A6%BE",
+          "title": "কিছু মানুষ কখনোই করোনায় আক্রান্ত হবেন না! | বিশ্ব সংবাদ | দৈনিক ইত্তেফাক | The Daily Ittefaq",
+          "snippet": "কিছু মানুষের শরীরে এমন 'টি সেল' রয়েছে যার কারণে তারা আর প্রাণঘাতী করোনা ভাইরাসে আক্রান্ত হবেন না। সম্প্রতি নতুন এক গবেষণায় এমনটি বলা...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/D8901E1171244593B60EB2547AC8F2EF",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/D8901E1171244593B60EB2547AC8F2EF"
+          ],
+          "date_published": "2020-06-05T04:19:00.000Z",
+          "source": {
+              "id": "দৈনিক-ইত্তেফাক",
+              "domain": "www.ittefaq.com.bd",
+              "name": "দৈনিক ইত্তেফাক",
+              "logo": "https://api.breakingapi.com/download/logos/দৈনিক-ইত্তেফাক.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.kalerkantho.com/online/miscellaneous/2020/06/05/919397",
+          "title": "অনেকের করোনা হবেই না, কারণ তাদের দেহে বিশেষ টি-সেল আছে!",
+          "snippet": "নতুন এক গবেষণায় দেখা গেছে, করোনাভাইরাসে (কভিড-১৯) আক্রান্ত না হওয়া অনেকের শরীরে এমন 'টি-সেল' রয়েছে, যেটি এই ভাইরাসকে প্রতিহত করতে সক্ষম। কারণ হিসেবে ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/540828A4048C4764821D60643D2C0AF8",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/540828A4048C4764821D60643D2C0AF8"
+          ],
+          "date_published": "2020-06-05T02:50:00.000Z",
+          "source": {
+              "id": "কালের-কন্ঠ",
+              "domain": "www.kalerkantho.com",
+              "name": "কালের কন্ঠ",
+              "logo": "https://api.breakingapi.com/download/logos/কালের-কন্ঠ.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.kalerkantho.com/print-edition/last-page/2020/06/05/919354",
+          "title": "আক্রান্তের আগেই অনেকে করোনা প্রতিরোধী! | কালের কণ্ঠ",
+          "snippet": "নতুন এক গবেষণায় দেখা গেছে, নভেল করোনাভাইরাসে আক্রান্ত না হওয়া অনেকের শরীরে.",
+          "primary_image_link": "https://api.breakingapi.com/download/images/01E968C051484938946D1646E958D9A7",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/01E968C051484938946D1646E958D9A7"
+          ],
+          "date_published": "2020-06-04T18:00:00.000Z",
+          "source": {
+              "id": "কালের-কন্ঠ",
+              "domain": "www.kalerkantho.com",
+              "name": "কালের কন্ঠ",
+              "logo": "https://api.breakingapi.com/download/logos/কালের-কন্ঠ.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.jagonews24.com/national/news/587631",
+          "title": "ডা. জাফরুল্লাহর শারীরিক অবস্থা ভালো না",
+          "snippet": "করোনাভাইরাসে (কোভিড-১৯) আক্রান্ত গণস্বাস্থ্য কেন্দ্রের প্রতিষ্ঠাতা ও ট্রাস্টি ডা. জাফরুল্লাহ চৌধুরীর শারীরিক অবস্থার অবনতি হয়েছে। গতকাল বৃহস্পতিবার (৪ জুন) ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/9B397B19B61743AA8B153ED5D71F5253",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/9B397B19B61743AA8B153ED5D71F5253"
+          ],
+          "date_published": "2020-06-05T02:31:20.000Z",
+          "source": {
+              "id": "jagonews24-com",
+              "domain": "www.jagonews24.com",
+              "name": "jagonews24.com",
+              "logo": "https://api.breakingapi.com/download/logos/jagonews24-com.png",
+              "locales": [
+                  "bn-BD"
+              ],
+              "description": "Jagonews24.com is an online Bengali language news portal in Bangladesh. Launched on 10 May 2014, the portal is owned by AKC Private Limited. As of June 2019, Alexa ranked the website 2,444 worldwide and 8th in Bangladesh which is the 4th among the news-related websites in Bangladesh."
+          }
+      },
+      {
+          "link": "https://www.ittefaq.com.bd/capital/155927/%E0%A6%A1%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%AB%E0%A6%B0%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B9-%E0%A6%9A%E0%A7%8C%E0%A6%A7%E0%A7%81%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%A8%E0%A6%A4%E0%A6%BF",
+          "title": "ডা. জাফরুল্লাহ চৌধুরীর শারীরিক অবস্থার অবনতি | রাজধানী | দৈনিক ইত্তেফাক | The Daily Ittefaq",
+          "snippet": "করোনা ভাইরাসে আক্রান্ত গণস্বাস্থ্য কেন্দ্রের প্রতিষ্ঠাতা ও ট্রাস্টি ডা. জাফরুল্লাহ চৌধুরীর শারীরিক অবস্থার আরও অবনতি হয়েছে। আজ শুক্রবার সকাল সাড়ে...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/CD055C339096441B9DE82E94097619B1",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/CD055C339096441B9DE82E94097619B1"
+          ],
+          "date_published": "2020-06-05T04:18:00.000Z",
+          "source": {
+              "id": "দৈনিক-ইত্তেফাক",
+              "domain": "www.ittefaq.com.bd",
+              "name": "দৈনিক ইত্তেফাক",
+              "logo": "https://api.breakingapi.com/download/logos/দৈনিক-ইত্তেফাক.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "http://www.mzamin.com/article.php?mzamin=229710",
+          "title": "জাফরুল্লাহ চৌধুরীর শারিরীক অবস্থার অবনতি",
+          "snippet": "করোনায় আক্রান্ত গণস্বাস্থ্য কেন্দ্রের প্রতিষ্ঠাতা ডা. জাফরুল্লাহ চৌধুরীর শারীরিক অবস্থার কিছুটা অবনতি হয়েছে। বৃহস্পতিবার রাত থেকে তার শ্বাসকষ্ট আগের তুলনায় ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/27E4188B716B47048396A8DFB3B4C917",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/27E4188B716B47048396A8DFB3B4C917"
+          ],
+          "date_published": "2020-06-05T03:47:00.000Z",
+          "source": {
+              "id": "mzamin-com",
+              "domain": "mzamin.com",
+              "name": "mzamin.com",
+              "logo": "https://api.breakingapi.com/download/logos/mzamin-com.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "http://www.dainikamadershomoy.com/post/260290",
+          "title": "ডা. জাফরুল্লাহর শারীরিক অবস্থা 'ভালো না', দোয়া চাইল গণস্বাস্থ্য",
+          "snippet": "করোনাভাইরাসে সংক্রমিত কোভিড-১৯ রোগে আক্রান্ত গণস্বাস্থ্য কেন্দ্রের প্রতিষ্ঠাতা ও ট্রাস্টি ডা. জাফরুল্লাহ চৌধুরীর শারীরিক অবস্থার অবনতি হয়েছে।",
+          "primary_image_link": "https://api.breakingapi.com/download/images/7D9DEC71BE8F4803B555CA0A2DDF3D3C",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/7D9DEC71BE8F4803B555CA0A2DDF3D3C"
+          ],
+          "date_published": "2020-06-05T04:10:46.000Z",
+          "source": {
+              "id": "দৈনিক-আমাদেরসময়",
+              "domain": "www.dainikamadershomoy.com",
+              "name": "দৈনিক আমাদেরসময়",
+              "logo": "https://api.breakingapi.com/download/logos/দৈনিক-আমাদেরসময়.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.dailynayadiganta.com/miscellaneous/506082/%E0%A6%A1%E0%A6%BE.-%E0%A6%9C%E0%A6%BE%E0%A6%AB%E0%A6%B0%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B9-%E0%A6%9A%E0%A7%8C%E0%A6%A7%E0%A7%81%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%A8%E0%A6%A4%E0%A6%BF",
+          "title": "ডা. জাফরুল্লাহ চৌধুরীর স্বাস্থ্যের অবনতি",
+          "snippet": "গণস্বাস্থ্য কেন্দ্রের প্রতিষ্ঠাতা ডাক্তার জাফরুল্লাহ চৌধুরী স্বাস্থ্যের অবনতি হয়েছে। শুক্রবার সকালে গণস্বাস্থ্য কেন্দ্রের ভেরিফাইড ফেসবুক পেইজে এ তথ্য জানানো ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/0801423711964655A03EA8C1451C9C7C",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/0801423711964655A03EA8C1451C9C7C"
+          ],
+          "date_published": "2020-06-05T05:12:00.000Z",
+          "source": {
+              "id": "নয়া-দিগন্ত",
+              "domain": "www.dailynayadiganta.com",
+              "name": "নয়া দিগন্ত",
+              "logo": "https://api.breakingapi.com/download/logos/নয়া-দিগন্ত.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.kalerkantho.com/online/world/2020/06/05/919403",
+          "title": "করোনায় এ গ্রুপের রক্তে ঝুঁকি ৫০% বেশি, আছে জিনগত কারণ",
+          "snippet": "এক গবেষণায় দেখা গেছে- করোনাভাইরাসে গুরুতর আক্রান্ত এবং রক্তের গ্রুপ 'এ'-এর মধ্যে নিবিড় সম্পর্ক রয়েছে। এমনকি অন্তত ছয় শতাংশ মানুষের জিনগতভাবেই রক্তের গ্রুপ ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/5C201B8F3DD14F09B175BAB396796C4C",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/5C201B8F3DD14F09B175BAB396796C4C"
+          ],
+          "date_published": "2020-06-05T03:34:00.000Z",
+          "source": {
+              "id": "কালের-কন্ঠ",
+              "domain": "www.kalerkantho.com",
+              "name": "কালের কন্ঠ",
+              "logo": "https://api.breakingapi.com/download/logos/কালের-কন্ঠ.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.ittefaq.com.bd/covid19-update/155914/%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
+          "title": "করোনায় আরেক চিকিৎসকের মৃত্যু | করোনা আপডেট | দৈনিক ইত্তেফাক | The Daily Ittefaq",
+          "snippet": "বঙ্গবন্ধু শেখ মুজিব মেডিকেল বিশ্ববিদ্যালয়ের ইউরোলজি বিভাগের সাবেক চেয়ারম্যান অধ্যাপক ডা. এসএএম কিবরিয়া করোনায় আক্রান্ত হয়ে মারা গেছেন (ইন্নালিল্লাহি ওয়া ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/0207630469D248B29C4ABC811D23509D",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/0207630469D248B29C4ABC811D23509D"
+          ],
+          "date_published": "2020-06-05T02:05:00.000Z",
+          "source": {
+              "id": "দৈনিক-ইত্তেফাক",
+              "domain": "www.ittefaq.com.bd",
+              "name": "দৈনিক ইত্তেফাক",
+              "logo": "https://api.breakingapi.com/download/logos/দৈনিক-ইত্তেফাক.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.banglatribune.com/others/news/626639/%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B%E0%A6%B2%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%95-%E0%A6%A1%E0%A6%BE.-%E0%A6%8F%E0%A6%B8%E0%A6%8F%E0%A6%8F%E0%A6%AE",
+          "title": "করোনায় মারা গেলেন ইউরোলজিস্ট অধ্যাপক ডা. এসএএম কিবরিয়া",
+          "snippet": "করোনাভাইরাসে আক্রান্ত হয়ে বঙ্গবন্ধু শেখ মুজিব মেডিক্যাল বিশ্ববিদ্যালয়ের ইউরোলজি বিভাগের সাবেক চেয়ারম্যান অধ্যাপক ডা. এসএএম গোলাম কিবরিয়া মৃত্যুবরণ করেছেন ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/685F3804FD0B47C28C8904F1AA5BCBDB",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/685F3804FD0B47C28C8904F1AA5BCBDB"
+          ],
+          "date_published": "2020-06-04T21:04:00.000Z",
+          "source": {
+              "id": "bangla-tribune",
+              "domain": "www.banglatribune.com",
+              "name": "Bangla Tribune",
+              "logo": "https://api.breakingapi.com/download/logos/bangla-tribune.png",
+              "locales": [
+                  "bn-BD"
+              ],
+              "description": "Bangla Tribune is a online newspaper in Bangladesh, published from Dhaka in Bengali language. Launched in May 13, 2014 The publisher of the news paper is Kazi Anis Ahmed, while Zulfiqer Russell serves as the editor. The slogan of the newspaper is Everything in minimum words."
+          }
+      },
+      {
+          "link": "https://www.banglanews24.com/national/news/bd/792303.details",
+          "title": "করোনায় ইউরোলজিস্ট অধ্যাপক ডা. কিবরিয়ার মৃত্যু",
+          "snippet": "ঢাকা: বঙ্গবন্ধু শেখ মুজিব মেডিক্যাল বিশ্ববিদ্যালয়ের (বিএসএমএমইউ) ইউরোলজি বিভাগের সাবেক চেয়ারম্যান অধ্যাপক ডা. এসএএম গোলাম কিবরিয়া করোনা ভাইরাসে (কোভিড-১৯) ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/987E2C8DC5594155A1DC59290C4621E1",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/987E2C8DC5594155A1DC59290C4621E1"
+          ],
+          "date_published": "2020-06-05T04:26:25.000Z",
+          "source": {
+              "id": "বাংলানিউজটোয়েন্টিফোর-কম",
+              "domain": "www.banglanews24.com",
+              "name": "বাংলানিউজটোয়েন্টিফোর.কম",
+              "logo": "https://api.breakingapi.com/download/logos/বাংলানিউজটোয়েন্টিফোর-কম.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.kalerkantho.com/online/national/2020/06/05/919411",
+          "title": "করোনায় বিএসএমএমইউর সাবেক ইউরোলজি প্রধানের মৃত্যু",
+          "snippet": "করোনাভাইরাসে আক্রান্ত হয়ে মারা গেলেন বঙ্গবন্ধু শেখ মুজিব মেডিক্যাল বিশ্ববিদ্যালয়ের (বিএসএমএমইউ) ইউরোলজি বিভাগের সাবেক চেয়ারম্যান অধ্যাপক ডা. এসএএম কিবরিয়া ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/FFC71857D9B14A0BA2D992C2D1D0267D",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/FFC71857D9B14A0BA2D992C2D1D0267D"
+          ],
+          "date_published": "2020-06-05T04:33:00.000Z",
+          "source": {
+              "id": "কালের-কন্ঠ",
+              "domain": "www.kalerkantho.com",
+              "name": "কালের কন্ঠ",
+              "logo": "https://api.breakingapi.com/download/logos/কালের-কন্ঠ.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.dailynayadiganta.com/disaster/506078/%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B%E0%A6%B2%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%95-%E0%A6%A1%E0%A6%BE.-%E0%A6%8F%E0%A6%B8%E0%A6%8F%E0%A6%8F%E0%A6%AE-%E0%A6%95%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
+          "title": "করোনায় ইউরোলজিস্ট অধ্যাপক ডা. এসএএম কিবরিয়ার মৃত্যু",
+          "snippet": "বঙ্গবন্ধু শেখ মুজিব মেডিক্যাল বিশ্ববিদ্যালয়ের (বিএসএমএমইউ) ইউরোলজি বিভাগের সাবেক চেয়ারম্যান অধ্যাপক ডা. এসএএম গোলাম কিবরিয়া করোনাভাইরাসে (কোভিড-১৯) ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/243C95B1B2C942979AAA2A842B02481A",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/243C95B1B2C942979AAA2A842B02481A"
+          ],
+          "date_published": "2020-06-05T04:30:00.000Z",
+          "source": {
+              "id": "নয়া-দিগন্ত",
+              "domain": "www.dailynayadiganta.com",
+              "name": "নয়া দিগন্ত",
+              "logo": "https://api.breakingapi.com/download/logos/নয়া-দিগন্ত.png",
+              "locales": [
+                  "bn-BD"
+              ]
+          }
+      },
+      {
+          "link": "https://www.prothomalo.com/economy/article/1660687/%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A7%A8%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A6%A8-%E0%A6%A4%E0%A7%87%E0%A6%B2-%E0%A6%AA%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%BF",
+          "title": "নদীতে ২০ হাজার টন তেল, পুতিনের জরুরি অবস্থা জারি",
+          "snippet": "উত্তর মেরু অঞ্চলের একটি নদীতে ২০ হাজার টন তেল ছড়িয়ে পড়ায় জরুরি অবস্থা জারি করেছেন রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন। জরুরি অবস্থার মানে, এই তেল অপারেশনে ...",
+          "primary_image_link": "https://api.breakingapi.com/download/images/D78FCC5633624BD2B708EF6C051F8392",
+          "image_links": [
+              "https://api.breakingapi.com/download/images/D78FCC5633624BD2B708EF6C051F8392"
+          ],
+          "date_published": "2020-06-05T04:49:00.000Z",
+          "source": {
+              "id": "prothom-alo",
+              "domain": "www.prothomalo.com",
+              "name": "প্রথম আলো",
+              "logo": "https://api.breakingapi.com/download/logos/prothom-alo.png",
+              "locales": [
+                  "bn-BD"
+              ],
+              "description": "The Daily Prothom Alo is a major daily newspaper in Bangladesh, published from Dhaka in the Bengali language. Based on circulation, Prothom Alo is the second largest newspaper in Bangladesh."
+          }
+      }
+  ]
+}
