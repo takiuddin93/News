@@ -7,6 +7,6 @@
 
 ## TODO
 
-- [X]  Create Models.dart file.
-- [X]  Create seperate Service.dart file for handling http response.
-- [X]  Implement a modern UI.
+-[X]  Create Models.dart file.
+-[X]  Create seperate Service.dart file for handling http response.
+-[X]  Implement a modern UI.
